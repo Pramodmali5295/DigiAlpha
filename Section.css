@@ -1,0 +1,42 @@
+.section-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.image-section {
+  display: flex;
+  justify-content: space-between;
+}
+
+.image-overlay {
+  position: relative;
+}
+
+.section-img {
+  max-width: 100%;
+  height: auto;
+}
+
+.image-text-box {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.8
+  ); 
+  padding: 10px;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.content-img {
+  max-width: 100%;
+  height: auto;
+}
