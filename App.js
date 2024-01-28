@@ -1,11 +1,11 @@
 import "./App.css";
-import Containt from "./Components/Containt/Containt";
+import Containt from "./Containt";
 
-import Footer from "./Components/Footer/Footer";
-import Imagecontaint from "./Components/ImageContaint/Imagecontaint";
-import Navbar from "./Components/Navbar/Navbar";
-import Section from "./Components/Section/Section";
-import Slidercom from "./Components/Slider/Slidercom";
+import Footer from "./Footer";
+import Imagecontaint from "./Imagecontaint";
+import Navbar from "./Navbar";
+import Section from "./Section";
+import Slidercom from "./Slidercom";
 
 function App() {
   return (
